@@ -15,7 +15,7 @@ body {
   }
 
   .navigation-bar {
-    background-color: #352d2f;
+    background-color: #332d2f;
     height: 70px;
     width: 100%;
   }
@@ -84,7 +84,7 @@ body {
       margin: 0px;
       /* display: inline-block; */
       vertical-align: top;
-      background-color: #352d2f;
+      background-color: #332d2f;
       width: 100%;
   }
 
