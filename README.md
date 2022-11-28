@@ -1,5 +1,7 @@
 # Top navbar with logo for Mobile and desktop without JS
 
+# NO LICENSE DO WHAT YOU WANT WITH IT 
+
 >Mobile and Desktop view
 
 ### Mobile:
